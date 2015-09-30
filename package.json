@@ -1,0 +1,16 @@
+{
+  "name": "gulp-if-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./"
+  },
+  "author": "Callum Macrae <callum@macr.ae>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-if": "^2.0.0",
+    "through2": "^2.0.0",
+    "vinyl-fs-fake": "^1.1.0"
+  }
+}
